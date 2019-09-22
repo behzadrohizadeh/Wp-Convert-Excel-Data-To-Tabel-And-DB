@@ -16,3 +16,6 @@ In this plugin you can do the above things easily by using Excel file and manage
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Do your Setting from your custom menue. 
 3.  [Youtube]( https://youtu.be/C6Nx21W1TjI)
+
+# plugin 
+[Wp Convert Excel Data To Tabel And DB](https://wordpress.org/plugins/wpxlsdata)
